@@ -45,4 +45,9 @@ season_theft_crimes.
 
 From here, there's a few things we need to do. We need to visualize the data, run statistical analysis, and... some
 other third thing probably. I think we're largely almost done though!
+
+Allie - Report
+Cindy - Visualization
+Yalena - Car Theft Visualization
+Julia - Statistical Analyses
 '''
